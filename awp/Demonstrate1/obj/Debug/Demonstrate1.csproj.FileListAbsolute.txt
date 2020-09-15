@@ -1,0 +1,7 @@
+F:\Practicals\boring\awp\Demonstrate1\bin\Debug\Demonstrate1.exe.config
+F:\Practicals\boring\awp\Demonstrate1\bin\Debug\Demonstrate1.exe
+F:\Practicals\boring\awp\Demonstrate1\bin\Debug\Demonstrate1.pdb
+F:\Practicals\boring\awp\Demonstrate1\obj\Debug\Demonstrate1.csprojAssemblyReference.cache
+F:\Practicals\boring\awp\Demonstrate1\obj\Debug\Demonstrate1.csproj.CoreCompileInputs.cache
+F:\Practicals\boring\awp\Demonstrate1\obj\Debug\Demonstrate1.exe
+F:\Practicals\boring\awp\Demonstrate1\obj\Debug\Demonstrate1.pdb

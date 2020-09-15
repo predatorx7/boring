@@ -1,0 +1,7 @@
+F:\Practicals\boring\awp\Operations2A\bin\Debug\Operations2A.exe.config
+F:\Practicals\boring\awp\Operations2A\bin\Debug\Operations2A.exe
+F:\Practicals\boring\awp\Operations2A\bin\Debug\Operations2A.pdb
+F:\Practicals\boring\awp\Operations2A\obj\Debug\Operations2A.csproj.CoreCompileInputs.cache
+F:\Practicals\boring\awp\Operations2A\obj\Debug\Operations2A.exe
+F:\Practicals\boring\awp\Operations2A\obj\Debug\Operations2A.pdb
+F:\Practicals\boring\awp\Operations2A\obj\Debug\Operations2A.csprojAssemblyReference.cache

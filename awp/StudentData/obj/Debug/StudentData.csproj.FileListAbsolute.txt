@@ -1,0 +1,7 @@
+F:\Practicals\boring\awp\StudentData\bin\Debug\StudentData.exe.config
+F:\Practicals\boring\awp\StudentData\bin\Debug\StudentData.exe
+F:\Practicals\boring\awp\StudentData\bin\Debug\StudentData.pdb
+F:\Practicals\boring\awp\StudentData\obj\Debug\StudentData.csprojAssemblyReference.cache
+F:\Practicals\boring\awp\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+F:\Practicals\boring\awp\StudentData\obj\Debug\StudentData.exe
+F:\Practicals\boring\awp\StudentData\obj\Debug\StudentData.pdb

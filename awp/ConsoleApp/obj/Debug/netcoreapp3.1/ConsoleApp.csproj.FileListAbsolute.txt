@@ -1,0 +1,13 @@
+F:\Practicals\boring\awp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+F:\Practicals\boring\awp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+F:\Practicals\boring\awp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+F:\Practicals\boring\awp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+F:\Practicals\boring\awp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+F:\Practicals\boring\awp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+F:\Practicals\boring\awp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

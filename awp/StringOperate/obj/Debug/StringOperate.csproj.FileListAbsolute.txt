@@ -1,0 +1,7 @@
+F:\Practicals\boring\awp\StringOperate\bin\Debug\StringOperate.exe.config
+F:\Practicals\boring\awp\StringOperate\bin\Debug\StringOperate.exe
+F:\Practicals\boring\awp\StringOperate\bin\Debug\StringOperate.pdb
+F:\Practicals\boring\awp\StringOperate\obj\Debug\StringOperate.csprojAssemblyReference.cache
+F:\Practicals\boring\awp\StringOperate\obj\Debug\StringOperate.csproj.CoreCompileInputs.cache
+F:\Practicals\boring\awp\StringOperate\obj\Debug\StringOperate.exe
+F:\Practicals\boring\awp\StringOperate\obj\Debug\StringOperate.pdb

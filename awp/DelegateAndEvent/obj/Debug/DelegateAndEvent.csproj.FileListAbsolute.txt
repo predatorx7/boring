@@ -1,0 +1,7 @@
+F:\Practicals\boring\awp\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe.config
+F:\Practicals\boring\awp\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+F:\Practicals\boring\awp\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+F:\Practicals\boring\awp\DelegateAndEvent\obj\Debug\DelegateAndEvent.csprojAssemblyReference.cache
+F:\Practicals\boring\awp\DelegateAndEvent\obj\Debug\DelegateAndEvent.csproj.CoreCompileInputs.cache
+F:\Practicals\boring\awp\DelegateAndEvent\obj\Debug\DelegateAndEvent.exe
+F:\Practicals\boring\awp\DelegateAndEvent\obj\Debug\DelegateAndEvent.pdb
