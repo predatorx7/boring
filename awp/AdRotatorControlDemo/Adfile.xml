@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Advertisements>
+<Ad>
+<ImageUrl>https://i.pinimg.com/originals/ec/cf/1f/eccf1f835ea346d58d9de3a5c786c250.jpg</ImageUrl>
+<NavigateUrl>http://www.1800flowers.com</NavigateUrl>
+<AlternateText>
+Order flowers, roses, gifts and more
+</AlternateText>
+<Impressions>20</Impressions>
+<Keyword>flowers</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>https://64.media.tumblr.com/d13f2c15704f8dc283313c77777abdcb/597f4ceeb087f74d-2f/s500x750/1711dfcf19a689a494902e8b4498d9110719c083.jpg</ImageUrl>
+<NavigateUrl>http://www.babybouquets.com.au</NavigateUrl>
+<AlternateText>Order roses and flowers</AlternateText>
+<Impressions>20</Impressions>
+<Keyword>gifts</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>https://i.pinimg.com/originals/5b/21/bc/5b21bc6210e1fddcb1042dec93f30a4d.jpg</ImageUrl>
+<NavigateUrl>http://www.flowers2moscow.com</NavigateUrl>
+<AlternateText>Send flowers to Russia</AlternateText>
+<Impressions>20</Impressions>
+<Keyword>russia</Keyword>
+</Ad>
+</Advertisements>

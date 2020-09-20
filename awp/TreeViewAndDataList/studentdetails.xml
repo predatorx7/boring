@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentdetail>
+	<student>
+		<sid>1</sid>
+		<sname>Mushaheed</sname>
+		<sclass>TYIT</sclass>
+	</student>
+	<student>
+		<sid>2</sid>
+		<sname>Sonal</sname>
+		<sclass>TYIT</sclass>
+	</student>
+	<student>
+		<sid>3</sid>
+		<sname>Vishaal</sname>
+		<sclass>TYIT</sclass>
+	</student>
+	<student>
+		<sid>4</sid>
+		<sname>Amaan</sname>
+		<sclass>TYIT</sclass>
+	</student>
+	<student>
+		<sid>5</sid>
+		<sname>Takshika</sname>
+		<sclass>TYIT</sclass>
+	</student>
+</studentdetail>

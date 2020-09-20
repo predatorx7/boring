@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Beautified.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> -Beauification Demo</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css">
+    <style type="text/css">
+        .auto-style1 {
+            position: absolute;
+            top: 373px;
+            left: 1028px;
+            bottom: 303px;
+        }
+
+        .auto-style2 {
+            position: absolute;
+            top: 537px;
+            left: 1016px;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Master page beautification</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/About">About</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <aside id="side">
+            <h1>Info</h1>
+            <a href="#">
+                <p>Your orders</p>
+            </a>
+            <a href="#">
+                <p>Cart</p>
+            </a>
+            <a href="#">
+                <p>
+                    Wishlist
+                </p>
+            </a>
+            <asp:Button ID="Button2" runat="server" CssClass="auto-style1" Style="z-index: 1"
+                Text="Button" />
+            <asp:Button ID="Button1" runat="server" CssClass="auto-style2" Text="Button" />
+        </aside>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>Demonstraton of Master Page with applying Styles & Themes for page beautification.</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
